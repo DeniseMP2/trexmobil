@@ -145,7 +145,7 @@ function draw() {
     fimdejogo.visible = true;
     reiniciar.visible = true;
     
-    if(touches.lenght > 0){
+    if(touches.length > 0){
     
     reset();
     touches= [];
